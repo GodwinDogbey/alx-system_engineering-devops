@@ -1,2 +1,1 @@
-#!/bin/bash
-"0x02 shell IO redirections and fliters readme file"
+this is my readme file on shell redirections
